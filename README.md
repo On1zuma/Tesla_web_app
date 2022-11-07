@@ -4,6 +4,10 @@
 
 Le but de ce projet est de réaliser une version responsive de l'application mobile Tesla.
 - Attention à ne pas utiliser de balise "div", "span"
+- Varier l'utilisation des balises
+- Respecter les normes W3C
+- Organiser son code (header, section, nav, menu)
+
 
 ## Synthèse
 
