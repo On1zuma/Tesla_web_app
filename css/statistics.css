@@ -1,0 +1,231 @@
+/* first list */
+#header {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+#title {
+  color: white;
+  font: 1.2rem "larsseitLight";
+}
+
+#backToMenuArrow {
+  transform: rotate(180deg);
+  width: 17px;
+  position: absolute;
+  left: 1.5rem;
+}
+
+#topList {
+  margin-top: 10vw;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+#firstList {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#detailsTitle {
+  margin-right: auto;
+
+  margin-right: 15vh;
+  font-size: 1.2rem;
+  color: white;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.details {
+  margin-right: auto;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+.number {
+  margin-right: 1rem;
+  font: 2rem "larsseit";
+  color: white;
+}
+
+#graph {
+  height: auto;
+  width: 100%;
+  padding-right: 100vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contentOfSmallIcon {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+.smallIcon {
+  width: 1.4cm;
+  height: auto;
+}
+
+.smallNumber {
+  display: flex;
+  flex-direction: column;
+  font: 1.6rem "larsseit";
+  color: white;
+}
+
+/* second list */
+#secondList {
+  margin-top: 1cm;
+}
+
+.gray {
+  background-color: #242426;
+  padding-top: 0.5rem;
+  padding-bottom: 1.5rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  margin-bottom: -1px;
+  color: white;
+}
+
+#eco {
+  padding-top: 1rem;
+  padding-left: 0rem;
+  margin-bottom: -1px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: white;
+}
+
+#cost {
+  margin-top: 1.6rem;
+  padding-top: 1rem;
+  padding-left: 0rem;
+  margin-bottom: -25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: white;
+}
+
+.spaceAround {
+  margin-right: auto;
+  margin-left: 1.5rem;
+}
+
+.info {
+  margin-left: auto;
+  margin-right: 0rem;
+
+  width: 1cm;
+  height: auto;
+}
+
+.textColorG {
+  color: rgb(141, 141, 141);
+}
+
+.slider {
+  margin-right: 1rem;
+  margin-bottom: 0.2rem;
+  width: 75%;
+}
+
+#parameter {
+  margin-top: 2rem;
+  margin-left: 1.5rem;
+  margin-bottom: 2rem;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#textParam {
+  margin-left: 1.5rem;
+  color: white;
+}
+
+#paramIcon {
+  height: auto;
+  width: 3rem;
+}
+
+#paramIconPC {
+  display: none;
+}
+
+/* tablette */
+/* @media screen and (max-width: 992px) and (min-width: 667px) {
+} */
+
+/* PC */
+@media screen and (width > 992px) {
+  article {
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto 25rem 1fr;
+    grid-template-rows: 1fr auto;
+  }
+
+  .disabledParam {
+    display: none;
+  }
+
+  #bottomList {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 1.5rem;
+  }
+
+  #topList {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .gray {
+    margin-bottom: 0px;
+  }
+
+  #eco {
+    margin-bottom: 0px;
+  }
+
+  #title {
+    color: white;
+    font: 1.8rem "larsseit";
+  }
+
+  #title:hover {
+    color: rgb(141, 141, 141);
+  }
+
+  header {
+    position: absolute;
+    left: 21rem;
+  }
+
+  #backToMenuArrow {
+    display: none;
+  }
+
+  #paramIconPC {
+    display: flex;
+    position: absolute;
+    top: 1.5rem;
+    right: 3rem;
+    height: 2rem;
+    width: auto;
+  }
+}

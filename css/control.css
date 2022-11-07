@@ -1,0 +1,262 @@
+@font-face {
+  font-family: larsseit;
+  src: url(../font/larsseit/Larsseit.otf);
+}
+@font-face {
+  font-family: larsseitLight;
+  src: url(../font/larsseit/Larsseit-Light.otf);
+}
+
+#buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+button {
+  border: 1px solid transparent;
+  background-color: transparent;
+  padding: 3px 30%;
+  cursor: pointer;
+}
+
+.img1buttons {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+#teslaCar {
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  width: 30vh;
+  margin-top: 7vh;
+  margin-bottom: -1rem;
+}
+
+#header {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+#title {
+  color: white;
+  font: 1.2rem "larsseitLight";
+}
+
+#backToMenuArrow {
+  transform: rotate(180deg);
+  width: 17px;
+  position: absolute;
+  left: 1.5rem;
+}
+
+.insideLi {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+
+small {
+  color: rgb(141, 141, 141);
+}
+
+#charge {
+  width: 2.3rem;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 240px;
+
+  margin-top: auto;
+  margin-bottom: auto;
+  top: 60vh;
+  bottom: auto;
+
+  text-align: center;
+}
+
+#lock {
+  width: 2.3rem;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+
+  margin-top: auto;
+  margin-bottom: auto;
+  top: 0;
+  bottom: 0;
+
+  text-align: center;
+}
+
+#open1 {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+
+  margin-top: auto;
+  margin-bottom: auto;
+  top: 55vh;
+  bottom: auto;
+
+  color: rgb(43, 43, 43);
+  text-align: center;
+  width: 14.3rem;
+}
+
+#open2 {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+
+  margin-top: auto;
+  margin-bottom: auto;
+  top: 13vh;
+  bottom: auto;
+
+  color: rgb(197, 197, 197);
+  text-align: center;
+
+  width: 14.3rem;
+}
+
+div {
+  display: flex;
+}
+
+/* tablette */
+@media screen and (max-width: 992px) and (min-width: 667px) {
+  #teslaCar {
+    height: 60vw;
+    width: auto;
+    transform: rotate(-90deg);
+    margin-bottom: -2rem;
+    margin-top: -2rem;
+  }
+
+  #charge {
+    margin-left: 65vw;
+    top: 45vw;
+  }
+
+  #lock {
+    margin-top: 30vw;
+  }
+
+  #open1 {
+    left: 30vw;
+    top: 26vw;
+  }
+  #open2 {
+    left: -47vw;
+    top: 26vw;
+  }
+}
+
+/* PC */
+@media screen and (width > 992px) {
+  article {
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto 1fr;
+  }
+
+  #teslaCar {
+    width: 39vh;
+    transform: rotate(-90deg);
+    margin-top: -10px;
+    margin-bottom: -160px;
+    padding-bottom: 0;
+    padding-top: 0;
+    display: flex;
+  }
+
+  #mainButtons {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 15vw;
+    margin-right: 15vw;
+  }
+
+  #charge {
+    top: 67.3vh;
+    right: -21cm;
+  }
+
+  #lock {
+    left: 9cm;
+    top: -3vh;
+  }
+
+  #open1 {
+    width: 26vh;
+
+    top: 44vh;
+    right: -79vh;
+  }
+
+  #open2 {
+    width: 26vh;
+
+    top: 44vh;
+    right: 20vh;
+  }
+
+  #buttons {
+    margin-left: 15vw;
+    margin-right: 15vw;
+  }
+
+  .img1buttons:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2);
+  }
+
+  #charge:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2);
+  }
+
+  #lock:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2);
+  }
+
+  #header {
+    margin-top: 0.7rem;
+    margin-left: 2rem;
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+  }
+
+  #title {
+    color: white;
+    font: 1.8rem "larsseit";
+  }
+
+  #title:hover {
+    color: rgb(141, 141, 141);
+  }
+
+  #backToMenuArrow {
+    display: none;
+  }
+}
