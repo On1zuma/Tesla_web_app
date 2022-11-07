@@ -21,10 +21,10 @@ De plus j'ai cherché à faire varier grâce à différentes recherche m'ayant p
 
 ### Les débuts
 
-Lors des premières semaines j'ai d'abord posé l'idée de base via des croquis sur feuille, l'utilisation de logiciel comme balsamique studio et enfin la réalisation de maquette sur Figma pour me donner une idée d'un but à atteindre par la suite.
-- Maquette: [Maquette Figma + croquis](https://www.figma.com/file/3TWHg5l3ctpDOzWZMFRy1t/tesla-maquette?node-id=0%3A1) : https://bit.ly/3Uf0lyU
+Lors des premières semaines j'ai d'abord posé l'idée de base pour mon application via des croquis sur feuille, puis via l'utilisation de logiciel comme balsamique studio pour en arriver à la réalisation de maquettes sur Figma me donnant une idée du résultat final.
+- Figma: [Maquette Figma + croquis](https://www.figma.com/file/3TWHg5l3ctpDOzWZMFRy1t/tesla-maquette?node-id=0%3A1) : https://bit.ly/3Uf0lyU
 
-Je me suis fixé de réaliser d'abord l'application au format mobile et tablette pour enfin finir sur une version ordinatrice (travail avec les méthodes du mobile first).
+L'application à d'abord été réalisée au format mobile puis tablette pour enfin finir sur une version ordinateur (travail avec les méthodes du mobile first).
 
 _Pour la réalisation de cette application j'ai également utilisé de nombreux logiciels de montage pour pouvoir découper les différentes images issu de l'application mobile tesla_
 	-supprimer les fonds: https://www.remove.bg/fr
@@ -35,8 +35,8 @@ _Pour la réalisation de cette application j'ai également utilisé de nombreux 
 ### Problème rencontré 
 
 -Sur la page principale de l'application tesla j'ai voulu faire apparaitre un composant qui lors d'un clique sur le bouton de charge, apparait.
-Pour cela j'ai d'abord procédé avec l'utilisation des balises « details » et « summary », or via cette méthode j'ai rencontré des problèmes sur l'affichage.
--Difficulté avec l'utilisation des grids, nombreux probléme de placement et d'éspacage désormais résolu 
+Pour cela j'ai d'abord procédé avec l'utilisation des balises « details » et « summary », or via cette méthode j'ai rencontré des problèmes d'affichage (décalage, problèmes responsif).
+-Difficulté avec l'utilisation des grids, nombreux probléme de placement et d'éspacage au départ désormais résolu.
 
 ### Bilan
 
@@ -46,7 +46,7 @@ Par curiosité, j'ai également travaillé avec java script et j'ai touché à d
 
 De plus, en CSS j'ai appris à utiliser les flex-box avec flexboxdefense.com et flexboxfroggy.com . J'ai également appris à utiliser les grids pour adapter mon application mobile au format pc, en plus de la découverte d'unité nouvelle comme "em", "rem", "vw", "vh".
 
-```J’ai cherché au travers de mon travail à réaliser une application au norme, responsive, que je pourrai mettre en avant dans mon portfolio```
+```J’ai cherché au travers de mon travail de réaliser une application au norme, responsive, que je pourrai mettre en avant dans mon portfolio```
 
 _piste d’ouverture: utiliser une librairie de graphique pour rendre mon graphique interactif à l’avenir_
 
