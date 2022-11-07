@@ -38,7 +38,7 @@ J'ai appris lors de ce projet à utiliser Figma, utiliser les commandes git, env
 
 Par curiosité, j'ai également travaillé avec java script et j'ai touché à du tailwind css (utilisation des classes pour pouvoir apporter du style), bien que les nombreux avantages apporté par Tailwind, je me suis tenu à faire une application 100% de css.
 
-De plus, en CSS j'ai appris à utiliser les flex-box avec flexboxdefense.com et flexboxfroggy.com . J'ai également appris à utiliser les grids pour adapter mon application mobile au format pc.
+De plus, en CSS j'ai appris à utiliser les flex-box avec flexboxdefense.com et flexboxfroggy.com . J'ai également appris à utiliser les grids pour adapter mon application mobile au format pc, en plus de la découverte d'unité nouvelle comme "em", "rem", "vw", "vh".
 
 
 
