@@ -28,7 +28,9 @@ Lors des premières semaines j'ai d'abord posé l'idée de base pour mon applica
 
 L'application à d'abord été réalisée au format mobile puis tablette pour enfin finir sur une version ordinateur (travail avec les méthodes du mobile first).
 
-_Pour la réalisation de cette application j'ai également utilisé de nombreux logiciels de montage pour pouvoir découper les différentes images issu de l'application mobile tesla_
+J'ai eu de nombreuse fois l'occasion d'utiliser la documentation MDN trés utile de par ces exemples et ces explications.
+
+_Pour la réalisation de cette application j'ai également utilisé de nombreux logiciels de montage pour pouvoir découper les différentes images issu de l'application mobile tesla._
 - supprimer les fonds: https://www.remove.bg/fr
 - compresser les images: https://www.iloveimg.com/fr/compresser-image
 - redimensionner les images: https://www.iloveimg.com/resize-image
