@@ -40,7 +40,9 @@ _Pour la réalisation de cette application j'ai également utilisé de nombreux 
 
 - Sur la page principale de l'application tesla j'ai voulu faire apparaitre un composant qui lors d'un clique sur le bouton de charge, apparait.
 Pour cela j'ai d'abord procédé avec l'utilisation des balises « details » et « summary », or via cette méthode j'ai rencontré des problèmes d'affichage (décalage, problèmes responsif).
+
 - Difficulté avec l'utilisation des grids, nombreux probléme de placement et d'éspacage au départ désormais résolu.
+
 
 ### Bilan
 
