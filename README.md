@@ -26,6 +26,12 @@ Lors de première semaine j'ai d'abord posé l'idée de base via des croquis sur
 
 Je me suis fixé de réaliser d'abord l'application au format mobile et tablette pour enfin finir sur une version ordinatrice (travail avec les méthodes du mobile first).
 
+_Pour la réalisation de cette application j'ai également utilisé de nombreux logiciels de montage pour pouvoir découper les différentes images issu de l'application mobile tesla_
+	-supprimer les fonds: https://www.remove.bg/fr
+	-compresser les images: https://www.iloveimg.com/fr/compresser-image
+	-redimensionner les images: https://www.iloveimg.com/resize-image
+
+
 ### Problème rencontré 
 
 -Sur la page principale de l'application tesla j'ai voulu faire apparaitre un composant qui lors d'un clique sur le bouton de charge, apparait.
