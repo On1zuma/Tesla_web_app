@@ -34,11 +34,12 @@ Pour cela j'ai d'abord procédé avec l'utilisation des balises « details » et
 
 ### Bilan
 
-J'ai appris lors de ce projet à utiliser Figma, utiliser les commandes git et envoyer du code sur gitlab
+J'ai appris lors de ce projet à utiliser Figma, utiliser les commandes git, envoyer du code sur gitlab et créer un README.
 
-Par curiosité, j'ai également fait un peu de java script et j'ai touché à du tailwind css (utilisation des classes pour pouvoir apporter du style), bien que les nombreux avantages apporté par Tailwind, je me suis tenu à faire une application 100% de css.
+Par curiosité, j'ai également travaillé avec java script et j'ai touché à du tailwind css (utilisation des classes pour pouvoir apporter du style), bien que les nombreux avantages apporté par Tailwind, je me suis tenu à faire une application 100% de css.
 
-en CSS j'ai appris à utiliser les flex-box avec flexboxdefense.com et flexboxfroggy.com
+De plus, en CSS j'ai appris à utiliser les flex-box avec flexboxdefense.com et flexboxfroggy.com . J'ai également appris à utiliser les grids pour adapter mon application mobile au format pc.
 
-Par la suite j'ai également appris à utiliser les grids pour adapter mon application mobile au format pc
+
+
 
