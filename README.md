@@ -15,7 +15,7 @@ Le but de ce projet est de réaliser une version responsive de l'application mob
 
 Avant de commencer ce projet Tesla, j'étais encore un débutant en HTML et CSS.
 
-Je me suis fixé pour but dans de ce projet d'utiliser aucune balise « div » et/ou « span » pour les points bonus :) , mais également pour me permettre d'évoluer et surtout me permettre d'apprendre à coder avec les bonnes méthodes tout en respectant la norme W3C (World Wide Web).
+Je me suis fixé pour but dans de ce projet d'utiliser aucune balise « div » et/ou « span » pour les points bonus :D , mais également pour me permettre d'évoluer et surtout me permettre d'apprendre à coder avec les bonnes méthodes tout en respectant la norme W3C (World Wide Web).
 
 De plus j'ai cherché à faire varier grâce à différentes recherche m'ayant permis de découvrir de nouvelles balises les balises utilisées, pour en apprendre davantage tout en suivant la norme.
 
