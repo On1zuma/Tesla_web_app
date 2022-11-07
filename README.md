@@ -40,6 +40,7 @@ Par curiosité, j'ai également travaillé avec java script et j'ai touché à d
 
 De plus, en CSS j'ai appris à utiliser les flex-box avec flexboxdefense.com et flexboxfroggy.com . J'ai également appris à utiliser les grids pour adapter mon application mobile au format pc, en plus de la découverte d'unité nouvelle comme "em", "rem", "vw", "vh".
 
+```J’ai cherché au travers de mon travail de réaliser une application au norme, responsive que je pourrai mettre en avant dans mon portfolio```
 
 
 
