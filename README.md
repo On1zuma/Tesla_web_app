@@ -22,6 +22,6 @@ De plus j'ai cherché à faire varier grâce à différentes recherche m'ayant p
 ### Les débuts
 
 Lors de première semaine j'ai d'abord posé l'idée de base via des croquis sur feuille, l'utilisation de logiciel comme balsamique studio et enfin la réalisation de maquette sur Figma pour me donner une idée d'un but à atteindre par la suite
-- Maquette: [Maquette Figma]([https://github.com/shouze/lp-ecue41/](https://www.figma.com/file/3TWHg5l3ctpDOzWZMFRy1t/tesla-maquette?node-id=0%3A1)) 
+- Maquette: [Maquette Figma](https://github.com/shouze/lp-ecue41/](https://www.figma.com/file/3TWHg5l3ctpDOzWZMFRy1t/tesla-maquette?node-id=0%3A1) 
 
 
