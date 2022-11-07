@@ -7,7 +7,7 @@ Le but de ce projet est de réaliser une version responsive de l'application mob
 
 ## Synthèse
 
-### prémices
+### Prémices
 
 Avant de commencer ce projet Tesla, j'étais encore un débutant en HTML et CSS.
 
