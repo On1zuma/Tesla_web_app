@@ -48,5 +48,5 @@ De plus, en CSS j'ai appris à utiliser les flex-box avec flexboxdefense.com et 
 
 ```J’ai cherché au travers de mon travail à réaliser une application au norme, responsive, que je pourrai mettre en avant dans mon portfolio```
 
-_piste d’ouverture, utiliser une librairie de graphique pour rendre mon graphique interactif à l’avenir_
+_piste d’ouverture: utiliser une librairie de graphique pour rendre mon graphique interactif à l’avenir_
 
