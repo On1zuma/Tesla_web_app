@@ -28,5 +28,17 @@ Je me suis fixé de réaliser d'abord l'application au format mobile et tablette
 
 ### Problème rencontré 
 
-Sur la page principale de l'application tesla j'ai voulu faire apparaitre un composant qui lors d'un clique sur le bouton de charge, apparait.
+-Sur la page principale de l'application tesla j'ai voulu faire apparaitre un composant qui lors d'un clique sur le bouton de charge, apparait.
 Pour cela j'ai d'abord procédé avec l'utilisation des balises « details » et « summary », or via cette méthode j'ai rencontré des problèmes sur l'affichage.
+-Difficulté avec l'utilisation des grids, nombreux probléme de placement et d'éspacage désormais résolu 
+
+### Bilan
+
+J'ai appris lors de ce projet à utiliser Figma, utiliser les commandes git et envoyer du code sur gitlab
+
+Par curiosité, j'ai également fait un peu de java script et j'ai touché à du tailwind css (utilisation des classes pour pouvoir apporter du style), bien que les nombreux avantages apporté par Tailwind, je me suis tenu à faire une application 100% de css.
+
+en CSS j'ai appris à utiliser les flex-box avec flexboxdefense.com et flexboxfroggy.com
+
+Par la suite j'ai également appris à utiliser les grids pour adapter mon application mobile au format pc
+
