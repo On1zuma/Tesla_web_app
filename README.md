@@ -1,8 +1,8 @@
 # Tesla-app
 
-travail réalisé par Wassim MESFIOUI.
+Travail réalisé par Wassim MESFIOUI.
 
-page web: https://tesla-app88.netlify.app/
+Page web: https://tesla-app88.netlify.app/
 
 À savoir: quatre pages sont disponibles, l'accueil, la page de l'application initiale (Simone) et deux sous pages (Contrôles et Stats recharge)
 
