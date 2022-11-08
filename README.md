@@ -42,16 +42,18 @@ _Pour la réalisation de cette application j'ai également utilisé de nombreux 
 - Sur la page principale de l'application tesla j'ai voulu faire apparaitre un composant qui lors d'un clique sur le bouton de charge, apparait.
 Pour cela j'ai d'abord procédé avec l'utilisation des balises « details » et « summary », or via cette méthode j'ai rencontré des problèmes d'affichage (décalage, problèmes responsif).
 
-- Difficulté avec l'utilisation des grids, nombreux probléme de placement et d'éspacage au départ désormais résolu.
+- Difficulté avec l'utilisation des grids, nombreux probléme de placement et d'éspacage au départ, désormais résolu.
 
 
 ### Bilan
 
 J'ai appris lors de ce projet à utiliser Figma, utiliser les commandes git, envoyer du code sur gitlab et créer un README.
 
-Par curiosité, j'ai également travaillé avec java script et j'ai touché à du tailwind css (utilisation des classes pour pouvoir apporter du style), bien que les nombreux avantages apporté par Tailwind, je me suis tenu à faire une application 100% de css.
+Par curiosité, j'ai également travaillé avec java script et j'ai touché à du tailwind css (utilisation des classes pour pouvoir apporter du style), bien que les nombreux avantages apporté par Tailwind, je me suis tenu à faire une application 100% CSS.
 
 De plus, en CSS j'ai appris à utiliser les flex-box avec flexboxdefense.com et flexboxfroggy.com . J'ai également appris à utiliser les grids pour adapter mon application mobile au format pc, en plus de la découverte d'unité nouvelle comme "em", "rem", "vw", "vh".
+
+Enfin, j'ai beaucoup progressé dans la structuration de mon code en HTML, avec un respect des normes W3C, les avantages remarqués, un code lisible, une fluidité dans le travail et un plus grand recule sur mon code.
 
 ```J’ai cherché au travers de mon travail de réaliser une application au norme, responsive, que je pourrai mettre en avant dans mon portfolio.```
 
