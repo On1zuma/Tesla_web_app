@@ -1,4 +1,6 @@
-# tesla-app
+# Tesla-app
+
+page web: https://tesla-app88.netlify.app/
 
 ## Projet Tesla
 
@@ -7,6 +9,7 @@ Le but de ce projet est de réaliser une version responsive de l'application mob
 - Varier l'utilisation des balises
 - Respecter les normes W3C
 - Organiser son code (header, section, nav, menu...)
+- Réaliser deux pages issu de l'application Tesla
 
 
 ## Synthèse
@@ -17,7 +20,7 @@ Avant de commencer ce projet Tesla, j'étais encore un débutant en HTML et CSS.
 
 Je me suis fixé pour but dans de ce projet d'utiliser aucune balise « div » et/ou « span » pour les points bonus, mais également pour me permettre d'évoluer et surtout me permettre d'apprendre à coder avec les bonnes méthodes tout en respectant la norme W3C (World Wide Web).
 
-De plus j'ai cherché à faire varier grâce à différentes recherche m'ayant permis de découvrir de nouvelles balises les balises utilisées, pour en apprendre davantage tout en suivant la norme.
+De plus j'ai cherché à varier les balises grâce à différentes recherches sur MDN m'ayant permis de découvrir de nouvelles balises.
 
 ### Les débuts
 
@@ -26,7 +29,9 @@ Lors des premières semaines j'ai d'abord posé l'idée de base pour mon applica
 
 L'application à d'abord été réalisée au format mobile puis tablette pour enfin finir sur une version ordinateur (travail avec les méthodes du mobile first).
 
-_Pour la réalisation de cette application j'ai également utilisé de nombreux logiciels de montage pour pouvoir découper les différentes images issu de l'application mobile tesla_
+J'ai eu de nombreuse fois l'occasion d'utiliser la documentation MDN trés utile de par ces exemples et ces explications.
+
+_Pour la réalisation de cette application j'ai également utilisé de nombreux logiciels de montage pour pouvoir découper les différentes images issu de l'application mobile tesla._
 - supprimer les fonds: https://www.remove.bg/fr
 - compresser les images: https://www.iloveimg.com/fr/compresser-image
 - redimensionner les images: https://www.iloveimg.com/resize-image
@@ -34,17 +39,21 @@ _Pour la réalisation de cette application j'ai également utilisé de nombreux 
 
 ### Problème rencontré 
 
--Sur la page principale de l'application tesla j'ai voulu faire apparaitre un composant qui lors d'un clique sur le bouton de charge, apparait.
+- Sur la page principale de l'application tesla j'ai voulu faire apparaitre un composant qui lors d'un clique sur le bouton de charge, apparait.
 Pour cela j'ai d'abord procédé avec l'utilisation des balises « details » et « summary », or via cette méthode j'ai rencontré des problèmes d'affichage (décalage, problèmes responsif).
--Difficulté avec l'utilisation des grids, nombreux probléme de placement et d'éspacage au départ désormais résolu.
+
+- Difficulté avec l'utilisation des grids, nombreux probléme de placement et d'éspacage au départ, désormais résolu.
+
 
 ### Bilan
 
 J'ai appris lors de ce projet à utiliser Figma, utiliser les commandes git, envoyer du code sur gitlab et créer un README.
 
-Par curiosité, j'ai également travaillé avec java script et j'ai touché à du tailwind css (utilisation des classes pour pouvoir apporter du style), bien que les nombreux avantages apporté par Tailwind, je me suis tenu à faire une application 100% de css.
+Par curiosité, j'ai également travaillé avec java script et j'ai touché à du tailwind css (utilisation des classes pour pouvoir apporter du style), bien que les nombreux avantages apporté par Tailwind, je me suis tenu à faire une application 100% CSS.
 
 De plus, en CSS j'ai appris à utiliser les flex-box avec flexboxdefense.com et flexboxfroggy.com . J'ai également appris à utiliser les grids pour adapter mon application mobile au format pc, en plus de la découverte d'unité nouvelle comme "em", "rem", "vw", "vh".
+
+Enfin, j'ai beaucoup progressé dans la structuration de mon code en HTML, avec un respect des normes W3C, les avantages remarqués, un code lisible, une fluidité dans le travail et un plus grand recule sur mon code.
 
 ```J’ai cherché au travers de mon travail de réaliser une application au norme, responsive, que je pourrai mettre en avant dans mon portfolio.```
 
