@@ -20,7 +20,7 @@ Avant de commencer ce projet Tesla, j'étais encore un débutant en HTML et CSS.
 
 Je me suis fixé pour but dans de ce projet d'utiliser aucune balise « div » et/ou « span » pour les points bonus, mais également pour me permettre d'évoluer et surtout me permettre d'apprendre à coder avec les bonnes méthodes tout en respectant la norme W3C (World Wide Web).
 
-De plus j'ai cherché à faire varier grâce à différentes recherche m'ayant permis de découvrir de nouvelles balises les balises utilisées, pour en apprendre davantage tout en suivant la norme.
+De plus j'ai cherché à varier les balises grâce à différentes recherches sur MDN m'ayant permis de découvrir de nouvelles balises.
 
 ### Les débuts
 
