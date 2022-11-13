@@ -48,6 +48,7 @@ _Pour la réalisation de cette application j'ai également utilisé de nombreux 
   Pour cela j'ai d'abord procédé avec l'utilisation des balises « details » et « summary », or via cette méthode j'ai rencontré des problèmes d'affichage (décalage, problèmes responsif).
 
 - Difficulté avec l'utilisation des grids, nombreux probléme de placement et d'éspacage au départ, désormais résolu (pour mon index j'ai essayé d'utiliser majoritairement des grids).
+- Difficulté à certains moment avec la superposition d'images
 
 ### Bilan
 
