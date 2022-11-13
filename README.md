@@ -58,8 +58,8 @@ Par curiosité, j'ai également travaillé avec java script et j'ai touché à d
 
 De plus, en CSS j'ai appris à utiliser les flex-box avec flexboxdefense.com et flexboxfroggy.com et j'ai pu pratiquer tout cela au travers de cette application. J'ai également appris à utiliser les grids pour adapter mon application mobile au format pc par exemple, en plus de la découverte d'unité nouvelle comme "em", "rem", "vw", "vh".
 
-Enfin, j'ai beaucoup progressé dans la structuration de mon code en HTML, avec un respect des normes W3C. Les avantages remarqués, un code plus lisible, une fluidité dans le travail et un plus grand recule sur mon code.
-J'ai pu découvrir de nouvelle balise autre que le "div" que l'ont peut retrouver au travers de mon projet
+Enfin, j'ai beaucoup progressé grâce à ce projet comme par exemple avec la structuration de mon code en HTML, avec un respect des normes W3C. Les avantages remarqués, un code plus lisible, une fluidité dans le travail et un plus grand recule sur mon code.
+J'ai pu découvrir de nouvelle balise autre que le "div" que l'on peut retrouver au travers de mon projet
 
 `J’ai cherché au travers de mon travail de réaliser une application au norme, responsive, que je pourrai mettre en avant dans mon portfolio.`
 
