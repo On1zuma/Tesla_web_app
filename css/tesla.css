@@ -64,9 +64,17 @@ section .buttons a {
   font-weight: 500;
 }
 
+section .buttons a:hover {
+  background-color: #e5e5e5;
+}
+
 section .buttons a:first-child {
   background-color: rgb(46, 46, 46);
   color: #fff;
+}
+
+section .buttons a:first-child:hover {
+  background-color: rgb(33, 33, 33);
 }
 
 section .buttons {
