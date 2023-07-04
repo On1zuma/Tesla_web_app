@@ -1,5 +1,7 @@
 # Tesla-app
 
+![image](https://github.com/On1zuma/Teslapp/assets/96482486/333baf2f-161a-4043-af59-2442bf8e6047)
+
 Travail réalisé par Wassim MESFIOUI.
 
 Page web: https://tesla-app88.netlify.app/
